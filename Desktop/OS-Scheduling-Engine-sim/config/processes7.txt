@@ -1,0 +1,7 @@
+Proc_A 0 12 1
+Proc_B 1 6 3
+Proc_C 2 8 2
+Proc_D 4 3 4
+Proc_E 5 10 2
+Proc_F 6 5 1
+Proc_G 7 7 3
